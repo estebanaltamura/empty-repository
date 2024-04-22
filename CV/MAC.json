@@ -1,0 +1,238 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Andrés",
+      "surnames": "Altamura",
+      "title": "Frontend Web Developer - Reactjs | Typescript | Javascript | HTML | CSS | Bootstrap | Material UI | Git | Jira | NodeJs | Firebase | AWS",
+      "description": "Soy desarrollador Frontend, tengo un perfil startup, me gustan los emprendimientos, creo en los procesos ágiles, dinámicos y de mucha iteración con los usuarios y el mercado.\n\nEn los últimos años trabajé en una incubadora de negocios como referente tecnológico, co-fundé una empresa de venta de indumentaria en Argentina con excelente posicionamiento y solidas ventas. Tambien co-fundé una empresa de venta de indumentaria en Estados Unidos. En esta última experiencia casi quiebro, pero entendí que esto es lo mio, me encanta emprender y el proceso startup en su conjunto.\n\nHaber emprendido muchos años en diversos proyectos y trabajado en ecosistemas de negocios, hizo que me transforme en un profesional versátil, capaz de trabajar con equipos multidisciplinarios y con la habilidad de gestionar eficazmente la ambigüedad y la dinámica de los proyectos complejos.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/ce8cf362-c994-4c1d-aa5a-8fe3f047132e_linkedin-photo-61019.linkedin-photo-61019",
+        "alt": "24/04/22/ce8cf362-c994-4c1d-aa5a-8fe3f047132e_linkedin-photo-61019.linkedin-photo-61019"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/andres-altamura"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Koi Ventures",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/d495c825-b8c5-4b8d-be9b-b530bea4bded_linkedin-photo-61019.linkedin-photo-61019",
+            "alt": "24/04/22/d495c825-b8c5-4b8d-be9b-b530bea4bded_linkedin-photo-61019.linkedin-photo-61019"
+          }
+        },
+        "roles": [
+          {
+            "name": "Referente tecnologico",
+            "startDate": "2023-11-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Actas Italianas Express",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/513b288a-9e32-4983-bf19-4cc9488293d1_linkedin-photo-61019.linkedin-photo-61019",
+            "alt": "24/04/22/513b288a-9e32-4983-bf19-4cc9488293d1_linkedin-photo-61019.linkedin-photo-61019"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Front-end",
+            "startDate": "2022-08-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Plumarii",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/292d6181-2c17-46e8-bca7-bb69fe076983_linkedin-photo-61019.linkedin-photo-61019",
+            "alt": "24/04/22/292d6181-2c17-46e8-bca7-bb69fe076983_linkedin-photo-61019.linkedin-photo-61019"
+          }
+        },
+        "roles": [
+          {
+            "name": "Desarrollador Front-End & Co-founder",
+            "startDate": "2021-05-01",
+            "finishDate": "2022-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Lonely Indumentaria",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/f433d8cd-e104-4832-819c-9881ee047cea_linkedin-photo-61019.linkedin-photo-61019",
+            "alt": "24/04/22/f433d8cd-e104-4832-819c-9881ee047cea_linkedin-photo-61019.linkedin-photo-61019"
+          }
+        },
+        "roles": [
+          {
+            "name": "Co-founder, finanzas & marketing",
+            "startDate": "2016-04-01",
+            "finishDate": "2022-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Infinity-tech"
+        },
+        "roles": [
+          {
+            "name": "Owner",
+            "startDate": "2010-02-01",
+            "finishDate": "2016-03-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Telefónica",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/04/22/4f7cc776-260e-4693-9d90-28bd04b580ba_linkedin-photo-61019.linkedin-photo-61019",
+            "alt": "24/04/22/4f7cc776-260e-4693-9d90-28bd04b580ba_linkedin-photo-61019.linkedin-photo-61019"
+          }
+        },
+        "roles": [
+          {
+            "name": "Responsable de registros",
+            "startDate": "2008-03-01",
+            "finishDate": "2009-11-30"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NextJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/andres-altamura",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "esteban.altamura@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Frontend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NextJS",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "React",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
+        "type": "technology"
+      }
+    ]
+  }
+}
